@@ -65,6 +65,7 @@ body {
   align-items: center;
   height: 6rem;
   width: 6rem;
+  margin-top: 1em;
   border: none;
   outline: none;
   background-color: hsl(150deg, 100%, 66%);

@@ -14,3 +14,4 @@ const generateAdvice = () => {
 };
 
 btn.addEventListener('click', generateAdvice);
+window.onload = generateAdvice;
